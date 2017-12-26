@@ -4,9 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
-  font-family: 'Open Sans', serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
   padding-top: 54px;
-  color: #868e96; }
+  line-height: 2rem;
+  color: #181818; }
 
 @media (min-width: 992px) {
   body {
@@ -25,13 +28,14 @@ h6 {
   color: #343a40; }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4.5rem;
   line-height: 5.5rem; }
 
 h2 {
   font-size: 3.5rem; }
 
 .subheading {
+  color: #808080;
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Nunito Sans', sans-serif;
@@ -109,6 +113,14 @@ section.resume-section {
 .text-primary {
   color: rgb(0, 130, 202) !important; }
 a {
-  color: #0082ca; }
+  color: rgb(0, 130, 202) }
   a:hover, a:focus, a:active {
-    color: #0082ca; }
+    color: rgb(0, 130, 202) }
+footer {
+  font-weight: 400;
+  font-size: 1.0rem;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:1em;
+  padding-left: 1rem;
+}
