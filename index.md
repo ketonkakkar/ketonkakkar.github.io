@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+exclude: true
 ---
-
-## About Me
 
 I am a journalist and computer scientist interested in technology, law, and daily life. I write fiction, across genre, often about time, memory, and dislocation. I also hold a license to broker mortgages in the state of New York. For fun, I read books, climb rocks, and slackline.  
 
