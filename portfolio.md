@@ -79,7 +79,7 @@ In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet
 
 ### Criticism on literature and race
 
-+ [Religion, State Power, and Bipolarity in Shakespeare's *Hamlet*](/hamlet.pdf)
++ [Religion, State Power, and Bipolarity in Shakespeare's *Hamlet*](/assets/hamlet.pdf)
 
 + [A Defense of Rights Discourse](https://medium.com/@Keton/rights-discourse-a-defense-82d6079c02a5)
 
@@ -87,6 +87,6 @@ In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet
 
 ### Supervised machine learning papers
 
-+ [Multi-Perspective Ensemble for Hyper-Partisan News Detection](/NLP_Final_Project.pdf): <a href="https://github.com/ketonkakkar/hyperpartisan-news-classifier"> <i class="fa fa-github"></i>
++ [Multi-Perspective Ensemble for Hyper-Partisan News Detection](/assets/NLP_Final_Project.pdf): <a href="https://github.com/ketonkakkar/hyperpartisan-news-classifier"> <i class="fa fa-github"></i>
 
-+ [Transcription Factor Binding Site Prediction Using Convolutional Neural Networks](/TF_Binding_Site_Prediction.pdf)
++ [Transcription Factor Binding Site Prediction Using Convolutional Neural Networks](/assets/TF_Binding_Site_Prediction.pdf)

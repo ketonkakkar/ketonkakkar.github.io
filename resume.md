@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-Linked [here](/kakkar_resume.pdf) is a condensed one-pager in PDF format.
+Linked [here](/assets/kakkar_resume.pdf) is a condensed one-pager in PDF format.
 
 ## Education
 
@@ -103,7 +103,7 @@ Genevieve Ching-wen Lee Award, 2018
 First prize @ [A. Edward Newton Student Book Collection Competition](http://bookaward.swarthmore.edu/)
 
 + Awarded joint first prize in the longest-running collegiate book collection competition in the nation
-+ View the collection: [A Glimpse Beyond the Veil](/kakkar_newton.pdf)
++ View the collection: [A Glimpse Beyond the Veil](/assets/kakkar_newton.pdf)
 
 First-place student poster @ [2018 ACMW Celebration of Women in Computing in Philadelphia](https://nvite.com/PHICWIC2018/npvpyg)
 
