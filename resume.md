@@ -73,7 +73,7 @@ Linked [here](/assets/kakkar_resume.pdf) is a condensed one-pager in PDF format.
 **Small Craft Warnings**  
 Publisher, September 2018---May 2019
 
-+ Curate, edit, and publish Swarthmore College’s oldest literary magazine
++ Curated, edited, and published Swarthmore College’s oldest literary magazine
 + Raised funding to regularly print in color, expanded the editorial board, and acquired an office
 
 ## Licenses
