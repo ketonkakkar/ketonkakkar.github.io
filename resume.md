@@ -16,13 +16,14 @@ Linked [here](/kakkar_resume.pdf) is a condensed one-pager in PDF format.
 + Associate Member, Sigma Xi
 
 **Phillips Academy,** Andover, MA
-    
+
 + Graduation: May 2015
 
 ## Work Experience
 
 **[Computational Humanities @ Columbia University](https://xpmethod.plaintext.in/)**, Summer 2019  
 *Research Assistant*
+
 + Using natural language processing tools to analyze large-scale phenomena in literature
 + Principle investigator: [Professor Dennis Tenen](https://denten.plaintext.in)
 
@@ -49,7 +50,7 @@ Linked [here](/kakkar_resume.pdf) is a condensed one-pager in PDF format.
 *Editor Emeritus*, January 2019---Present
 
 + Filled in as acting editor for an investigation into frat misconduct that broke national news, resulted in frats disbanding
-+ Successfuly lobbied for Swarthmore to participate in the [Pulitzer Center's](https://pulitzercenter.org/) consortium program
++ Successfully lobbied for Swarthmore to participate in the [Pulitzer Center's](https://pulitzercenter.org/) consortium program
 + Organized an on-campus panel featuring four professionals in the field, drawing 50+ community members
 
 *Managing Editor & Head of Digital Operations*, June 2018—--December 2018
@@ -101,7 +102,7 @@ Genevieve Ching-wen Lee Award, 2018
 
 First prize @ [A. Edward Newton Student Book Collection Competition](http://bookaward.swarthmore.edu/)
 
-+ Awarded joint first prize in the longest-running collegiate book collection competetion in the nation
++ Awarded joint first prize in the longest-running collegiate book collection competition in the nation
 + View the collection: [A Glimpse Beyond the Veil](/kakkar_newton.pdf)
 
 First-place student poster @ [2018 ACMW Celebration of Women in Computing in Philadelphia](https://nvite.com/PHICWIC2018/npvpyg)

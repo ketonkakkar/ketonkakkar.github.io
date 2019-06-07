@@ -9,7 +9,7 @@ permalink: /portfolio/
 
 In the spring of 2019 my college newspaper, The Phoenix, broke an investigative story on the misogyny and hazing practices of Swarthmore College's fraternities. Our articles got picked up by [The New York Times](https://www.nytimes.com/2019/04/30/us/swarthmore-college-phi-psi-fraternities.html), [The Washington Post](https://www.washingtonpost.com/nation/2019/04/30/close-rape-attic-swarthmore-students-occupy-fraternity-after-disturbing-documents-leak/), [NPR](https://www.npr.org/2019/05/02/718969495/swarthmore-fraternities-disband-over-leaked-documents-that-detailed-misogyny), and others. Shortly thereafter, both of Swarthmore's fraternities disbanded themselves.
 
-Though an emeritus editor at the time, I was called upon to serve as acting editor and co-author in the investigation, due to a conflict of interest in The Phoenix's senior editoral board.
+Though an emeritus editor at the time, I was called upon to serve as acting editor and co-author in the investigation, due to a conflict of interest in The Phoenix's senior editorial board.
 
 You can view the work of our reporting team here:
 
@@ -53,7 +53,7 @@ Transparency around process is a crucial part of building trust. Along with our 
 
 ### Freelance
 
-In January 2019 I spent a week at WHYY through Swarthmore Career Services' externship program. In shadowing my host, Swarthmore alum and WHYY Audio News Director Gene Sonn, I attended a press breifing, copy-edited and sat in on meetings, managerial and editorial. In addition, I wrote a brief news write-up, linked below.
+In January 2019 I spent a week at WHYY through Swarthmore Career Services' externship program. In shadowing my host, Swarthmore alum and WHYY Audio News Director Gene Sonn, I attended a press briefing, copy-edited and sat-in on meetings, managerial and editorial. In addition, I wrote a brief news write-up, linked below.
 
 + [Comcast, Aramark and Campbell’s Rank Among Fortune 500s for Boardroom Diversity](https://whyy.org/articles/comcast-aramark-and-campbells-rank-among-fortune-500s-for-boardroom-diversity/)
 
@@ -63,7 +63,7 @@ In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet
 
 + [Cornyn Amendment to Increase Scope of National Security Letters](https://www.lumendatabase.org/blog_entries/766)
 
-+ [2nd Circuit Rules on © Infringment Case In Favor of Vimeo](https://www.lumendatabase.org/blog_entries/769)
++ [2nd Circuit Rules on © Infringement Case In Favor of Vimeo](https://www.lumendatabase.org/blog_entries/769)
 
 + [Apple's New Patent Could Allow Others to Disable Your Phone's Camera](https://www.lumendatabase.org/blog_entries/773)
 
@@ -77,7 +77,7 @@ In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet
 
 ## Selected Academic Work
 
-### Criticsm on literature and race
+### Criticism on literature and race
 
 + [Religion, State Power, and Bipolarity in Shakespeare's *Hamlet*](/hamlet.pdf)
 
