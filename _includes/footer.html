@@ -1,0 +1,25 @@
+{%- assign social = site.minima.social_links -%}
+
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    
+    <div class="wrapper">
+          <div class="contact"> 
+              {%- if site.email -%}
+              <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> |
+              {%- endif -%}
+
+            <a href="https://github.com/ketonkakkar"> <i class="fa fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/keton"><i class="fa fa-linkedin"></i></a>
+            <a href="https://twitter.com/ketonkakkar"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.medium.com/@keton"><i class="fa fa-medium"></i></a>
+            <a href="https://www.instagram.com/ketonkakkar"><i class="fa fa-instagram"></i></a>
+
+          </div>
+          <div class ="credits">
+            Made with Github Pages + Jekyll + Minima
+          </div>
+    </div>
+  
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </footer>
