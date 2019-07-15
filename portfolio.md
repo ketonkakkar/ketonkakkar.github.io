@@ -17,7 +17,7 @@ You can view the work of our reporting team here:
 
 + [Phi Psi Leak Suggests Evidence of Hazing](https://swarthmorephoenix.com/2019/04/18/phi-psi-leak-suggests-evidence-of-hazing/)
 
-Transparency around process is a crucial part of building trust. Along with our investigative articles, we published an editor's note, to make clear to the Swarthmore community the validity of our reporting. You can read about it, here:
+Transparency around process is a crucial part of building trust. Along with our investigative articles, we published an editor's note, to make clear to the Swarthmore community the validity of our reporting. You can read about it here:
 
 + [Editorial Note: Our Process on the Phi Psi Coverage](https://swarthmorephoenix.com/2019/04/18/editorial-note-our-process-on-the-phi-psi-coverage/)
 
@@ -79,7 +79,7 @@ In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet
 
 ### Criticism on literature and race
 
-+ [*Hamlet*, Bipolarity, and the Affect of the Surveillance State](/assets/hamlet.pdf)
++ [Hamlet: Bipolarity and the Genesis of State Surveillance](/assets/hamlet.pdf)
 
 + [A Defense of Rights Discourse](https://medium.com/@Keton/rights-discourse-a-defense-82d6079c02a5)
 
