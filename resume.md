@@ -11,7 +11,6 @@ Linked [here](/assets/kakkar_resume.pdf) is a condensed one-pager in PDF format.
 
 + Graduation: December 2019, *with Honors*
 + Majors: Computer Science and English Literature
-  + *with respective emphases in Machine Learning (Honors) and Creative Writing (High Honors)*
   + Cumulative GPA: 3.65
 + Associate Member, Sigma Xi
 
