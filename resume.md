@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-Linked [here](/assets/kakkar_resume.pdf) is a condensed one-pager in PDF format.
+Linked [here](/assets/kakkar_resume.pdf) is a two-page resume in PDF format current as of August 2019.
 
 ## Education
 
