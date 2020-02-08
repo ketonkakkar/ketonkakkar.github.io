@@ -25,13 +25,13 @@ Linked [here](/assets/kakkar_resume.pdf) is a two-page resume in PDF format curr
 *Research Assistant*
 
 + Using natural language processing tools to analyze large-scale phenomena in literature
-+ Principle investigator: [Professor Dennis Tenen](https://denten.plaintext.in)
++ Principal investigator: [Professor Dennis Tenen](https://denten.plaintext.in)
 
 **Computer Science @ Swarthmore College**, June 2017---May 2018  
 *Research Assistant*
 
 + Used supervised machine learning to predict binding sites of transcription factors in cells
-+ Principle investigator: [Professor Ameet Soni](https://www.cs.swarthmore.edu/~soni/)
++ Principal investigator: [Professor Ameet Soni](https://www.cs.swarthmore.edu/~soni/)
 
 **[ASK Abstract](http://searchmytitle.com/)**, January 2017---May 2018  
 *Title Closer*
