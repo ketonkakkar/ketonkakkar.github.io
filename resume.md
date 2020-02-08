@@ -10,9 +10,10 @@ Linked [here](/assets/kakkar_resume.pdf) is a two-page resume in PDF format curr
 **Swarthmore College,** Swarthmore, PA
 
 + Graduation: December 2019, *with Honors*
-+ Majors: Computer Science and English Literature
-  + Cumulative GPA: 3.65
-+ Associate Member, Sigma Xi
++ Majors: English Literature and Computer Science
+  + Cumulative GPA: 3.7
+  + Specialities in no particular order: Shakespeare, Victorian Literature, Deep Learning & Natural Language Processing, Race Theory
++ Associate Member, Sigma Xi Honors Society
 
 **Phillips Academy,** Andover, MA
 
