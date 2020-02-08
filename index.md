@@ -17,7 +17,7 @@ At the moment I am interning as an urban planning reporter at WHYY's PlanPhilly.
 
 ## A patch in the fabric
 
-Last spring I made a podcast about my parents lives with [War News Radio](https://podcasts.apple.com/us/podcast/war-news-radio/id75012663) as the first part of a larger oral history on Afghan Hindu refugees. You can listen to it here.
+Last spring I made a podcast about my parents' lives with [War News Radio](https://podcasts.apple.com/us/podcast/war-news-radio/id75012663) as the first part of a larger oral history on Afghan Hindu refugees. You can listen to it here.
 
 <iframe title="Exodus from Afghanistan: My Parents' Story" src="https://www.podbean.com/media/player/d99xe-ae7646?from=site&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
 
