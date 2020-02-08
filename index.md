@@ -21,6 +21,6 @@ Last spring I made a podcast about my parents' lives with [War News Radio](https
 
 <iframe title="Exodus from Afghanistan: My Parents' Story" src="https://www.podbean.com/media/player/d99xe-ae7646?from=site&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
 
-Thanks to Jake Stattel, Rohit Nair, Kyle Richmond-Crosset, and Will Reid for working on this with me.
+Thanks to Jake Stattel, Rohit Nair, Kyle Richmond-Crosset, and especially [Will Reid](https://www.willreidradio.com/) for working on this with me.
 
 You can also listen on [Spotify](https://open.spotify.com/episode/6YaaphVOC8tWg60l1DJN3m?si=NB8asEnbRyWdLC792hhgGQ), [Google](https://bit.ly/2WtveG5), [Apple](https://podcasts.apple.com/us/podcast/exodus-from-afghanistan-my-parents-story/id75012663?i=1000435336734), or likely wherever else you get your podcasts.
