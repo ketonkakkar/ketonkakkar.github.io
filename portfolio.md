@@ -3,6 +3,44 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+
+## Technology, Society, Law, and Literature
+
+### Papers on literature and race
+
++ [Mania as Cryptography:](/assets/hamlet.pdf) Foucaldian Discourse in Hamlet's Surveillance State
+
++ [A Defense of Rights Discourse:](https://medium.com/@Keton/rights-discourse-a-defense-82d6079c02a5) On seeking change through institutional means
+
++ [Automortograpy and Suicide in David Foster Wallace's _The Pale King_:](https://medium.com/@Keton/automortography-and-suicide-david-foster-wallace-s-last-act-cdc849cc364f) How DFW scripts his own death through a Kafka reference
+
++ [Surveillance, Social Media, and the Novel:](assets/surveillance_and_the_novel.pdf) How being watched is an integral part of subject-formation
+
+### Some college machine learning working papers
+
++ [Multi-Perspective Ensemble for Hyper-Partisan News Detection](/assets/NLP_Final_Project.pdf).  
+Here's a link to the code repository: <a href="https://github.com/ketonkakkar/hyperpartisan-news-classifier"> <i class="fa fa-github"></i>
+
++ [Transcription Factor Binding Site Prediction Using Convolutional Neural Networks](/assets/TF_Binding_Site_Prediction.pdf)
+
+### Book and Concert Reviews
+
++ [The Manic Plot: Reflections on Bipolar Disorder in Literature](https://medium.com/@Keton/the-manic-plot-3751225d926b)
+
++ [The Politics of the Shrug: A Review of Cory Doctorow’s Walkaway](https://medium.com/@Keton/walkaway-56b1237692a8)
+
++ [The Energy and Intimacy of JAY-Z: A Review of the 444 Tour](https://daily.swarthmore.edu/2017/12/06/444/)
+
+### Writing for BKC Harvard's Lumen Database
+
+In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu). While a Berktern I worked on the [Lumen Database](https://lumendatabase.org), which maintains an archive of online-content removal requests to protect against censorship. While there, I blogged about pertinent issues in technology law.
+
++ [Cornyn Amendment to Increase Scope of National Security Letters](https://www.lumendatabase.org/blog_entries/766)
+
++ [2nd Circuit Rules on © Infringement Case In Favor of Vimeo](https://www.lumendatabase.org/blog_entries/769)
+
++ [Apple's New Patent Could Allow Others to Disable Your Phone's Camera](https://www.lumendatabase.org/blog_entries/773)
+
 ## Journalism
 
 ### Investigative reporting
@@ -21,7 +59,7 @@ Transparency around process is a crucial part of building trust. Along with our 
 
 + [Editorial Note: Our Process on the Phi Psi Coverage](https://swarthmorephoenix.com/2019/04/18/editorial-note-our-process-on-the-phi-psi-coverage/)
 
-### Beat coverage
+### Beat coverage during college 
 
 #### Administration
 
@@ -51,42 +89,14 @@ Transparency around process is a crucial part of building trust. Along with our 
 
 + [Images of Students of Color Defaced from French Department Poster](https://daily.swarthmore.edu/2015/12/02/students-of-color-pictures-defaced-on-french-department-poster/)
 
-### Freelance
+### City reporting at WHYY News in Philadelphia
 
-In January 2019 I spent a week at WHYY through Swarthmore Career Services' externship program. In shadowing my host, Swarthmore alum and WHYY Audio News Director Gene Sonn, I attended a press briefing, copy-edited and sat-in on meetings, managerial and editorial. In addition, I wrote a brief news write-up, linked below.
+After finishing college in the fall of 2019 I spent a term interning as a reporter at WHYY, Philadelphia's NPR affiliate. I worked for the PlanPhilly team, which covers urban planning, among other things. Cities and their infrastructure undergird much of daily life. Understanding how they work, and sharing that understanding with others, strikes me as a necessary and urgent civic duty. Here is a selection of the work I did during that time.
 
-+ [Comcast, Aramark and Campbell’s Rank Among Fortune 500s for Boardroom Diversity](https://whyy.org/articles/comcast-aramark-and-campbells-rank-among-fortune-500s-for-boardroom-diversity/)
++ [Philly’s homeless shelters prepare for unique challenge coronavirus brings](https://whyy.org/articles/phillys-homeless-shelters-prepare-for-unique-challenge-coronavirus-brings/)
 
-## Digital rights
++ [South Philly block blasted by deadly explosion still feeling aftershocks](https://whyy.org/articles/south-philly-block-blasted-by-deadly-explosion-still-experiencing-aftershocks/)
 
-In the summer of 2016 I interned at Harvard's [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu). While a Berktern I worked on the [Lumen Database](https://lumendatabase.org), which maintains an archive of online-content removal requests to protect against censorship. While there, I blogged about pertinent issues in technology law.
++ [SEPTA’s Market-Frankford Line is getting simpler](https://whyy.org/articles/septas-market-frankford-line-is-getting-simpler/)
 
-+ [Cornyn Amendment to Increase Scope of National Security Letters](https://www.lumendatabase.org/blog_entries/766)
-
-+ [2nd Circuit Rules on © Infringement Case In Favor of Vimeo](https://www.lumendatabase.org/blog_entries/769)
-
-+ [Apple's New Patent Could Allow Others to Disable Your Phone's Camera](https://www.lumendatabase.org/blog_entries/773)
-
-## Reviews
-
-+ [The Manic Plot: Reflections on Bipolar Disorder in Literature](https://medium.com/@Keton/the-manic-plot-3751225d926b)
-
-+ [The Politics of the Shrug: A Review of Cory Doctorow’s Walkaway](https://medium.com/@Keton/walkaway-56b1237692a8)
-
-+ [The Energy and Intimacy of JAY-Z: A Review of the 444 Tour](https://daily.swarthmore.edu/2017/12/06/444/)
-
-## Selected Academic Work
-
-### Criticism on literature and race
-
-+ [Hamlet: Bipolarity and the Genesis of State Surveillance](/assets/hamlet.pdf)
-
-+ [A Defense of Rights Discourse](https://medium.com/@Keton/rights-discourse-a-defense-82d6079c02a5)
-
-+ [Automortograpy and Suicide in David Foster Wallace's _The Pale King_](https://medium.com/@Keton/automortography-and-suicide-david-foster-wallace-s-last-act-cdc849cc364f)
-
-### Supervised machine learning papers
-
-+ [Multi-Perspective Ensemble for Hyper-Partisan News Detection](/assets/NLP_Final_Project.pdf): <a href="https://github.com/ketonkakkar/hyperpartisan-news-classifier"> <i class="fa fa-github"></i>
-
-+ [Transcription Factor Binding Site Prediction Using Convolutional Neural Networks](/assets/TF_Binding_Site_Prediction.pdf)
++ [Cheat Sheet: What to do if you suspect illegal or negligent construction in Philly](https://whyy.org/articles/cheat-sheet-what-to-do-if-you-suspect-illegal-or-negligent-construction-in-philly/)

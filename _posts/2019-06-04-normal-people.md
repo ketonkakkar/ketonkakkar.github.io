@@ -2,7 +2,7 @@
 layout: post
 title:  "Normal People"
 date:   2019-06-04 00:15:50 -0400
-categories: literature
+categories: blog
 ---
 I picked up Sally Rooney's *Conversations With Friends* in September 2017 after reading a review of it, probably in The New Yorker.
 It was good; certainly. Quick, full of those quotidian thoughts one has but never develops. I read half then put it down. Syllabus week was over.

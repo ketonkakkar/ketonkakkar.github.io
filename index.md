@@ -6,13 +6,15 @@ layout: home
 exclude: true
 ---
 
-I am a journalist and computer scientist interested in technology, law, and daily life. I write fiction, across genre, often about time, memory, and dislocation. I also hold a license to broker mortgages in the State of New York. For fun, I read books, climb rocks, and make pottery.  
+I am a writer and computer scientist interested in technology, law, and daily life. I write prose, across genre, often about time, memory, and dislocation. I also hold a license to broker mortgages in the State of New York. For fun, I read books, climb rocks, and make pottery.
 
 I love using computational thinking to analyze humanistic problems, and I think a whole lot of what we deem digital problems can be worked through with humanistic thought.
 
-## My current work
+I enjoy correspondence! Feel free to shoot me an email about anything you wish. My address is displayed at the bottom of this site.
 
-At the moment I am interning as an urban planning reporter at WHYY's PlanPhilly. Cities and their infrastructure undergird much of daily life. Understanding how they work, and sharing that understanding with others, strikes me as a necessary and urgent civic duty.
+## What's next
+
+Being 22 with few obligations, I think it best to spend my time on hard problems, with a view toward the long term. Right now I am most interested in: fixing [American apathy](/blog/2020/03/23/canaries.html), sustainable energy/finance, and implementing the reverse of brain drains.
 
 
 ## A patch in the fabric

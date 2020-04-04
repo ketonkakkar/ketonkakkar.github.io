@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-07T23:02:23-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keton H. Kakkar</title><subtitle>Journalist; technologist; liberal artist and fairweather determinist. A sucker for good flora.</subtitle><entry><title type="html">Normal People</title><link href="http://localhost:4000/books/2019/06/04/normal-people.html" rel="alternate" type="text/html" title="Normal People" /><published>2019-06-04T00:15:50-04:00</published><updated>2019-06-04T00:15:50-04:00</updated><id>http://localhost:4000/books/2019/06/04/normal-people</id><content type="html" xml:base="http://localhost:4000/books/2019/06/04/normal-people.html">&lt;p&gt;I picked up Sally Rooney’s &lt;em&gt;Conversations With Friends&lt;/em&gt; in September 2017 after reading a review of it, probably in The New Yorker.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-04T02:27:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keton H. Kakkar</title><subtitle>Journalist; technologist; liberal artist and fairweather determinist. A sucker for good flora.</subtitle><entry><title type="html">On Canaries, Frogs, and Lobsters</title><link href="http://localhost:4000/blog/2020/03/23/canaries.html" rel="alternate" type="text/html" title="On Canaries, Frogs, and Lobsters" /><published>2020-03-23T00:04:59-04:00</published><updated>2020-03-23T00:04:59-04:00</updated><id>http://localhost:4000/blog/2020/03/23/canaries</id><content type="html" xml:base="http://localhost:4000/blog/2020/03/23/canaries.html">&lt;h3 id=&quot;reflections-on-apathy-and-cultural-decay&quot;&gt;Reflections on apathy and cultural decay&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Prefatory note: I wrote a version of the following post as an email to a group of friends and mentors in the first few weeks of my coronavirus quarantine. The content is relevant to a general audience, so I thought I would put it up here. The date on the post reflects the date of the email.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A frog, when placed in boiling water, jumps out, so the famous (and perhaps cruel) science experiment tells us. The metaphor has come to mind a few times recently. In an &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2020/02/we-may-have-no-privacy-things-can-always-get-worse/606250/&quot;&gt;article&lt;/a&gt; he wrote for &lt;em&gt;The Atlantic&lt;/em&gt; last month, Jonathan Zittrain discussed the world’s placid acceptance of surveillance. We, like the second frog in the experiment, first sit in a pot of cold water, a state we all find tolerable, and then slowly boil to death, never bothering to jump out, because the change we have undergone has been incremental.&lt;/p&gt;
+
+&lt;p&gt;Apply this metaphor to the coronavirus. For weeks and months, the United States sat idly by as reality boiled-in: rendering a preventable event devastating.&lt;/p&gt;
+
+&lt;p&gt;When reporting an article three weeks ago on how coronavirus would affect homeless shelters, I struggled to understand the city of Philadelphia’s reluctance to take appropriate measures. The canaries had been sent through the coal mine and all available evidence pointed to the reality we are currently living in: strict social distancing measures, and a death toll positively correlated to the lag in implementing those measures. Despite knowing this evidence, the city was reticent to act.&lt;/p&gt;
+
+&lt;p&gt;Right now I have two basic theories to explain the failure. The first I attribute to &lt;a href=&quot;https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/&quot;&gt;Nassim Nicholas Taleb&lt;/a&gt;, who writes on the fragility of systems. The coronavirus is a once in a century event. Historically, it’s what people like Taleb call “tail event”— an unlikely and cataclysmically bad occurrence within the range of known possibilities. While it’s theoretically possible to plan for an event like this, in reality, an actor’s response is only as good as its ingrained versatility and robustness.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The second theory comes from Nina Feldman, who covers the health beat at WHYY (the news station where I am interning until April). As I gleaned from Twitter, Nina attributes the city’s failure of action to a lack of immediate local flares— that is, positive test results. (Such a rationale being considered a failure because by the time those results do make themselves apparent, the virus has already spread.)&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, when American institutions finally did begin taking action, the dominoes fell in quick succession.&lt;/p&gt;
+
+&lt;p&gt;Evident from this illogical response is the existence of a networked chilling effect: in spite of an &lt;em&gt;awareness&lt;/em&gt; of reality, many were unwilling to &lt;em&gt;act&lt;/em&gt; on reality, for fear of seeming crazy to their peers.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; A more commonly used term for this is “herd mentality,” but what I like about appropriating the term “chilling effect” (which I usually only encounter in Internet Studies) is that it emphasizes a desire for action or expression, but one that is repressed. Using an example from a different academic discipline, take the psychology studies that Solomon Asch conducted at Swarthmore in the 1950s. To quote the book of investor &lt;a href=&quot;https://www.oaktreecapital.com/insights/howard-marks-memos&quot;&gt;Howard Marks&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;“Asch asked groups of subjects to make judgments about visual exhibits, but all but one of the “subjects” in each group where shills working for him. The shills intentionally said the wrong thing, with dramatic impact on the one real subject. As Asch put it: ‘Upon him we have brought to bear two opposed forces: the evidence of his senses and the unanimous opinion of a group of his peers.’&lt;/p&gt;
+
+&lt;p&gt;A high percentage of the real subjects ignored what they saw and sided with the other group members, even though they were obviously in the wrong.”&lt;/p&gt;
+
+&lt;p&gt;When the group consensus changed (driven by a few bold leaders or a series of proximate flares), other actors followed suit, like computer bits flipping signs, or a row of Othello pieces changing from white to black.&lt;/p&gt;
+
+&lt;p&gt;The theorist &lt;a href=&quot;https://www.dukeupress.edu/Cruel-Optimism/&quot;&gt;Lauren Berlant&lt;/a&gt; uses the phrase “slow death” to describe the experience of living in 20th/21st century America: broken infrastructure, dysfunctional health care, and the constant yoke of debt cause American citizens and non-citizens to atrophy. Pursuit of “the good life” is perennially promising and frequently cruel. There’s more to Berlant’s point than I’m doing it justice for, but I like one thing she says in particular:&lt;/p&gt;
+
+&lt;p&gt;“The present moment imposes itself as a moment in extended crisis, with one happening piling on another… At the same time, the genre of crisis can distort something structural and ongoing within ordinariness into something that seems shocking and exceptional.”&lt;/p&gt;
+
+&lt;p&gt;I like this point because it illustrates the frog in water effect so beautifully, but from a different angle: though a moment may seem like crisis, the frog’s been boiling the whole time. (While the boil of the virus has only extended since November/December, the boil of our broken infrastructure has existed a while.)&lt;/p&gt;
+
+&lt;p&gt;As I understand it, Berlant’s words were written in the cultural milieu of the 2008 financial crisis. And while I do think of the coronavirus as a “tail event”, and therefore, a crisis, I also (somewhat paradoxically) believe in Berlant’s point about how viewing things as crises makes structural brokenness seem exceptional.&lt;/p&gt;
+
+&lt;p&gt;Viewing the coronavirus as a tail event, though, does have its conceptual uses: Taleb’s ultimate shtick is that cataclysmic events highlight structures that are “antifragile,”— that is: structures which benefit from volatility. What the coronavirus made clear to me was the antifragility of community networks: friends, strangers, kin.&lt;/p&gt;
+
+&lt;p&gt;Which brings me to this essay’s final point: viewing this crisis in terms of the boiled frog does something dangerous: it itself lets us boil. While on a systemic level, the frog metaphor can be useful, by viewing the situation through a passive lens, we neglect something much graver: how our individual lack of action actively hurts others.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gourmet.com.s3-website-us-east-1.amazonaws.com/magazine/2000s/2004/08/consider_the_lobster.html&quot;&gt;Consider the lobster&lt;/a&gt;, David Foster Wallace implores us. To cook lobster, one traditionally takes a specimen and boils it, alive. There is little doubt, from a human sensory perspective, that the creature feels pain: it scuttles against the pot rather horrifically. Nevertheless, we subject it to that boiling. Why? Because the lobster is tasty and it’s convenient enough to look the other way.&lt;/p&gt;
+
+&lt;p&gt;In many ways I think we are more like humans choosing to boil lobster, and ignore their pain, than we are like frogs slowly accepting our own decay.&lt;/p&gt;
+
+&lt;p&gt;I am here thinking of my choice to go to crowded social spaces during the same week I was reporting on coronavirus’s soon-to-be impact on the city. I am also, on some level, thinking of my continued use of a gasoline-burning car, my propensity to throw things in the trash (things which then get incinerated and ruin the health of kids in Chester, PA), and people’s continued use of Amazon’s marketplace, which is known to throttle small businesses.&lt;/p&gt;
+
+&lt;p&gt;The idea that individuals have responsibilty in large-scale problems occasionally gets a bad reputation. And indeed, often an excessive emphasis on individual responsibilty diverts attention from the systemic issues at play. Focusing on plastic bag usage is not so useful if you don’t also acknowledge that the Koch brothers &lt;a href=&quot;https://www.simonandschuster.com/books/Kochland/Christopher-Leonard/9781476775388&quot;&gt;have hijacked&lt;/a&gt; the American political system in order to keep polluting, for example.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, when institutions fail, the health of a society falls to the robustness of its communal networks: social groups, like a body inoculating to a virus, have an incredible capacity to respond to stress. Implicit in the strength of a communal network, then, is the importance of individual agency to contribute to that network. Individuals choices &lt;em&gt;do&lt;/em&gt; matter, especially when you consider network effects.&lt;/p&gt;
+
+&lt;p&gt;I am sensitive to moments of coercion, and recognize that the world often and routinely attempts to strip individuals of their agency. The purpose of encouraging us to view our situations not in terms of the frog, but in terms of the lobster-boiling human, is to emphasize the agency we do have and the harms we inflict by being passive. To paraphrase Cory Doctorow &lt;a href=&quot;https://swarthmorephoenix.com/2018/10/04/cory-doctorows-walkaway-diagnosis-through-science-fiction/&quot;&gt;responding&lt;/a&gt; to Thatcherism: The moment you believe There Is No Alternative is the moment such a proposition becomes true.&lt;/p&gt;
+
+&lt;h3 id=&quot;acknowledgements&quot;&gt;Acknowledgements:&lt;/h3&gt;
+
+&lt;p&gt;In addition to those cited in this essay, I’d like to thank Anna Garner for reminding me that how we choose to frame and put words to concepts is vitally important. I want to also thank Sam Goldman for pointing out Taleb’s take on the situation.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;After reading the email version of this, a friend pointed out that Nassim Nicholas Taleb himself &lt;a href=&quot;https://twitter.com/nntaleb/status/1241402813353267206&quot;&gt;considers&lt;/a&gt; the coronavirus not a tail event or a black swan but a gray rhino: that is, a glaringly obvious occurence charging right at us. I appreciate Taleb’s point, and from a risk-assesment perspective I think it’s accurate. Nevertheless, everyday people and city officials do not spend much time studying the global set of all problems. Rather, they live phenomenologically. The behavior of ordinary people and institutions thus makes more sense when recogizing that to them, this was a tail event, regardless of where it falls in risk models. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;In a traditional chilling effect, expression is quelled by fear of retribution. A good, relevant example of this is Zeynep Tufeki’s recent &lt;em&gt;Atlantic&lt;/em&gt; &lt;a href=&quot;https://www.theatlantic.com/technology/archive/2020/02/coronavirus-and-blindness-authoritarianism/606922/&quot;&gt;article&lt;/a&gt;, which argues that China’s authoritarianism chilled discussion of the coronavirus, allowing the problem to remain undetected at a national level. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Reflections on apathy and cultural decay</summary></entry><entry><title type="html">Seamus Heaney’s Address to Swarthmore</title><link href="http://localhost:4000/blog/2020/03/18/heaney.html" rel="alternate" type="text/html" title="Seamus Heaney's Address to Swarthmore" /><published>2020-03-18T00:11:10-04:00</published><updated>2020-03-18T00:11:10-04:00</updated><id>http://localhost:4000/blog/2020/03/18/heaney</id><content type="html" xml:base="http://localhost:4000/blog/2020/03/18/heaney.html">&lt;p&gt;In 1994, Seamus Heaney was awarded an honorary degree at Swarthmore College. Per tradition, he gave a speech to the congregants in the amphitheater. A xeroxed copy of his handwritten notes remained on file with Nathalie Anderson, endowed Professor of English Literature, and herself an esteemed poet. She kindly transcribed it for me, (“it’s not always easy to read”), and I thought I would put a copy up here.&lt;/p&gt;
+
+&lt;p&gt;I had intended to reread Heaney’s speech this spring, when I returned to campus to walk with the class of 2020 (having been offset from my own class due to a semester away sophomore year). Now, quarantined from coronavirus, it’s not clear if or when the class of 2020 will walk.&lt;/p&gt;
+
+&lt;p&gt;“Being any good as a poet means that you have written something that it would be worth stopping a school to hear,” Heaney writes in this speech. Now that school has stopped (or been put on Zoom, or what have you), these words are arresting. In the words of Professor Anderson: “It’s a bracing document! Enjoy!”&lt;/p&gt;
+
+&lt;p&gt;Remarks at Swarthmore Commencement&lt;br /&gt;
+30 May 1994&lt;br /&gt;
+Seamus Heaney&lt;/p&gt;
+
+&lt;p&gt;My previous visits to Swarthmore feel like preludes to this very happy and personally very important
+moment. The honour done to me to-day is the culmination of all the pleasure I felt over the years at being
+invited to Swarthmore to read my poems. I first visited this campus in 1979, when I read in the library and
+met afterwards at the librarian’s house with several people who have become friends in the interim – in
+particular, the librarian himself, my bibliographer and regular kind host.&lt;/p&gt;
+
+&lt;p&gt;My first visit to Philadelphia, however, was in 1971, when I read poems to the students of an inner
+city high-school. The teacher in charge of that event had hidden me away in a kind of book closet while
+he herded mini-stampedes of teenagers down the corridors and tried to pen them in as an audience in
+another, much less distinguished library. And as I skulked there, like some latter-day apostle in his upper
+room, I heard a voice from the corridor like the voice of God asking a simple question. It cried out, in
+ringing American and impatient tones, “Who is this poet anyhow? Is he any good.”&lt;/p&gt;
+
+&lt;p&gt;I think the starkness of that question did more for me than all the poetics I had studied and all the
+reviews, good or bad, that I had received up until that date. It raised the stakes and returned the problem
+to its essentials: what does being any good as a poet mean? And the answer that came to me then and
+that still scares me because of its simplicity was this: being any good as a poet means that you have
+written something that it would be worth stopping a school to hear. Something that feeds and increases
+within us the spiritual and emotional fossil fuel that we run on as human beings. Something, in the words
+of the Scottish poet, Hugh MacDiarmuid, that brings human existence to life.&lt;/p&gt;
+
+&lt;p&gt;To-day, of course, you, the class of ’94, are hearing that question – “Is she any good, is he any
+good?” [–] in a particularly keen way. Because from to-day, you must begin to live in a more exposed
+way as yourselves. And you will only begin to live truly, I would suggest, when you have conceived
+standards by which you can fail. These are the standards you test yourselves against if you want to
+attain that ideal which Socrates once called “the examined life.” They are the standards representative of
+the highest possibility, that ultimate possibility, to which an artist like Cézanne or a poet like Emily
+Dickinson or a hero like Nelson Mandela sacrifices himself or herself.&lt;/p&gt;
+
+&lt;p&gt;So you, the class of ’94, now stand in some book closet deep within yourselves and hear a voice
+calling upon you to imagine those standards, if you are to be any good. And I want to leave each of you
+alone there by reading in conclusion a poem I wrote a couple of years ago, because one of the purposes
+of poetry is just that, to leave you alone with yourself. Alone like the character in the poem, who is
+undergoing both the penalties and the rewards of imagining his high standards and living by them. The
+poem is called “St. Kevin and the Blackbird.” It is set in the fairy tale world of early medieval Ireland and it
+is in two short sections:&lt;/p&gt;
+
+&lt;p&gt;And then there was St Kevin and the blackbird.&lt;br /&gt;
+The saint is kneeling, arms stretched out, inside&lt;br /&gt;
+His cell, but the cell is narrow, so&lt;/p&gt;
+
+&lt;p&gt;One turned-up palm is out the window, stiff&lt;br /&gt;
+As a crossbeam, when a blackbird lands&lt;br /&gt;
+And lays in it and settles down to nest.&lt;/p&gt;
+
+&lt;p&gt;Kevin feels the warm eggs, the small breast, the tucked&lt;br /&gt;
+Neat head and claws and, finding himself linked&lt;br /&gt;
+Into the network of eternal life,&lt;/p&gt;
+
+&lt;p&gt;Is moved to pity: now he must hold his hand&lt;br /&gt;
+Like a branch out in the sun and rain for weeks&lt;br /&gt;
+Until the young are hatched and fledged and flown.&lt;/p&gt;
+
+&lt;p&gt;*&lt;/p&gt;
+
+&lt;p&gt;And since the whole thing’s imagined anyhow,&lt;br /&gt;
+Imagine being Kevin. Which is he?&lt;br /&gt;
+Self-forgetful or in agony all the time&lt;/p&gt;
+
+&lt;p&gt;From the neck on out down through his hurting forearms?&lt;br /&gt;
+Are his fingers sleeping? Does he still feel his knees?&lt;br /&gt;
+Or has the shut-eyed blank of underearth&lt;/p&gt;
+
+&lt;p&gt;Crept up through him? Is there distance in his head?&lt;br /&gt;
+Alone and mirrored clear in love’s deep river,&lt;br /&gt;
+‘To labour and not to seek reward,’ he prays,&lt;/p&gt;
+
+&lt;p&gt;A prayer his body makes entirely&lt;br /&gt;
+For he has forgotten self, forgotten bird&lt;br /&gt;
+And on the riverbank forgotten the river’s name.&lt;/p&gt;</content><author><name></name></author><summary type="html">In 1994, Seamus Heaney was awarded an honorary degree at Swarthmore College. Per tradition, he gave a speech to the congregants in the amphitheater. A xeroxed copy of his handwritten notes remained on file with Nathalie Anderson, endowed Professor of English Literature, and herself an esteemed poet. She kindly transcribed it for me, (“it’s not always easy to read”), and I thought I would put a copy up here.</summary></entry><entry><title type="html">Normal People</title><link href="http://localhost:4000/blog/2019/06/04/normal-people.html" rel="alternate" type="text/html" title="Normal People" /><published>2019-06-04T00:15:50-04:00</published><updated>2019-06-04T00:15:50-04:00</updated><id>http://localhost:4000/blog/2019/06/04/normal-people</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/04/normal-people.html">&lt;p&gt;I picked up Sally Rooney’s &lt;em&gt;Conversations With Friends&lt;/em&gt; in September 2017 after reading a review of it, probably in The New Yorker.
 It was good; certainly. Quick, full of those quotidian thoughts one has but never develops. I read half then put it down. Syllabus week was over.&lt;/p&gt;
 
 &lt;p&gt;Sunday, N. and I stumbled into The Center for Fiction (recently transplanted to Brooklyn; once, the Mercantile Library). We got caught in a flash storm. &lt;em&gt;Normal People&lt;/em&gt;, the new Rooney novel, was on the shelf.&lt;/p&gt;
