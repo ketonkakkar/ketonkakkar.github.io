@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+exclude: true
 ---
 Linked [here](/assets/kakkar_resume.pdf) is a one-page resume in PDF format current as of March 2020.
 

@@ -8,18 +8,9 @@ exclude: true
 
 I am a writer and computer scientist interested in technology, law, and daily life. I write prose, across genre, often about time, memory, and dislocation. I also hold a license to broker mortgages in the State of New York. For fun, I read books, climb rocks, and make pottery.
 
-I love using computational thinking to analyze humanistic problems, and I think a whole lot of what we deem digital problems can be worked through with humanistic thought.
-
-I enjoy correspondence! Feel free to shoot me an email about anything you wish. My address is displayed at the bottom of this site.
-
-## What's next
-
-Being 22 with few obligations, I think it best to spend my time on hard problems, with a view toward the long term. Right now I am most interested in: fixing [American apathy](/blog/2020/03/23/canaries.html), sustainable energy/finance, and implementing the reverse of brain drains.
-
-
 ## A patch in the fabric
 
-Last spring I made a podcast about my parents' lives with [War News Radio](https://podcasts.apple.com/us/podcast/war-news-radio/id75012663) as the first part of a larger oral history on Afghan Hindu refugees. You can listen to it here.
+In the spring of 2019 I made a podcast about my parents' lives with [War News Radio](https://podcasts.apple.com/us/podcast/war-news-radio/id75012663) as the first part of a larger oral history on Afghan Hindu refugees. You can listen to it here.
 
 <iframe title="Exodus from Afghanistan: My Parents' Story" src="https://www.podbean.com/media/player/d99xe-ae7646?from=site&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
 
