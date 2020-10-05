@@ -92,11 +92,12 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #111;
+  color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 16px;
-  font-style: normal; }
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
@@ -502,3 +503,9 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+blockquote {
+  color: #111;
+  font-size: 16px;
+  font-style: normal;
+  letter-spacing: 0px; }
