@@ -4,17 +4,19 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+
 ## Technology, Society, Law, and Literature
 
 ### Papers on literature and race
 
-+ [Mania as Cryptography:](/assets/hamlet.pdf) Foucaldian Discourse in Hamlet's Surveillance State
++ [Mania as Cryptography:](/assets/hamlet.pdf) Foucauldian Discourse in Hamlet's Surveillance State
 
 + [A Defense of Rights Discourse:](https://medium.com/@Keton/rights-discourse-a-defense-82d6079c02a5) On seeking change through institutional means
 
 + [Automortograpy and Suicide in David Foster Wallace's _The Pale King_:](https://medium.com/@Keton/automortography-and-suicide-david-foster-wallace-s-last-act-cdc849cc364f) How DFW scripts his own death through a Kafka reference
 
 + [Surveillance, Social Media, and the Novel:](assets/surveillance_and_the_novel.pdf) How being watched is an integral part of subject-formation
+
 
 ### Some college machine learning working papers
 
